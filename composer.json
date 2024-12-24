@@ -65,7 +65,5 @@
                 "WordPress": "RickWest\\WordPress\\Facades\\WordPress"
             }
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
